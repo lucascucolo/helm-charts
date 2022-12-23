@@ -6,7 +6,7 @@ As per [prometheus.io documentation](https://prometheus.io/docs/alerting/latest/
 > to the correct receiver integration such as email, PagerDuty, or OpsGenie. It
 > also takes care of silencing and inhibition of alerts.
 
-## Prerequisites
+## Prerequisitess
 
 Kubernetes 1.14+
 
